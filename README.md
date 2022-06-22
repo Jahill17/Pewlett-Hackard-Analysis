@@ -22,15 +22,16 @@ After retreival from the employee table, the following code was run to create a 
 
 ## Results
 
-Overall the code writeen retrieved the number of retiring employees by title and write a query to create mentorship eligibility table.  The below items can be inferred from the queries:
+Overall the written code retrieved the number of retiring employees by title and wrote a query to create a mentorship eligibility table.  The below items can be inferred from the queries:
 - 25,916 senior engineers are eligibile to retire
 - 24,926 senior staff are eligibile to retire
 - 9,285 engineer are eligibile to retire
 - 7,636 staff are eligibile to retire
 - 3,603 technique leaders are eligibile to retire
 - 1,090 assistant engineers are eligibile to retire
-- In total, there are approximately 72k roles that should be backfilled soon due to the number of eligible employees who could retire.
+- In total, there are approximately 72,000 roles that should be backfilled soon due to the number of eligible employees who could retire.
 - In total, there are over 1,500 individuals elgibility for mentorship.  It appears the company could push to improve those numbers and begin mentoring others as soon as possible to deal with future retirements.
+- It appears the company has a lot of older individuals employeed compared to younger employees who could be mentored.
 
 ![This is an image](https://github.com/Jahill17/Pewlett-Hackard-Analysis/blob/main/Queries/Eligible_Retirees.png)
 
