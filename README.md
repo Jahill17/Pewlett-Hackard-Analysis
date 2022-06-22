@@ -30,7 +30,7 @@ Overall the code writeen retrieved the number of retiring employees by title and
 - 3,603 technique leaders are eligibile to retire
 - 1,090 assistant engineers are eligibile to retire
 - In total, there are approximately 72k roles that should be backfilled soon due to the number of eligible employees who could retire.
-- In total, there are over 1,500 individuals elgibility for mentorship.  It appears the company could push to improve those numbers to deal with future retirements.
+- In total, there are over 1,500 individuals elgibility for mentorship.  It appears the company could push to improve those numbers and begin mentoring others as soon as possible to deal with future retirements.
 
 ![This is an image](https://github.com/Jahill17/Pewlett-Hackard-Analysis/blob/main/Queries/Eligible_Retirees.png)
 
